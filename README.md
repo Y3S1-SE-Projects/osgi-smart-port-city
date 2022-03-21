@@ -1,6 +1,6 @@
 # OSGi-Smart-Port-City
 
-![logo](img/osgi-logo.jpeg "logo")
+![logo](img/osgi-logo.jpg "logo")
 
 ## Table of Contents
 
