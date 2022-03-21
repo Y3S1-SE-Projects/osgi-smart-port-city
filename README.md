@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Project Description](#Project-Description)
+- [Project Description](#Use-Case-&-Scenario)
 - [System Flowchart](#System-Flowchart)
 - [System Screenshots](#System-Screenshots)
 - [Manifest Screenshots](#Manifest-Screenshots)
