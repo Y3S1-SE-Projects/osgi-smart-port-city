@@ -17,3 +17,9 @@ However, you may ask why we have chosen the OSGi framework as our technology to 
 The OSGi framework provides mainly reliable configuration, strong encapsulation and high modularity. Modularity enables the program to separate the functionality of a large program into independent, interchangeable modules, in such a way that each module would contain everything it needs to execute one single functionality. Therefore, we can say that each module is fully encapsulated thus reducing security vulnerabilities. As you can see, due to these advantages of the OSGi framework for our use case this technology would be the perfect choice.
 
 ## Getting Started - Installation
+
+## Authors
+- [Dissanayake M.C.Y.D](https://github.com/Chabbax)
+- [Abineshh U](https://github.com/)
+- [Zihara M.I.F](https://github.com/)
+- [Kuruppu S.G](https://github.com/)
