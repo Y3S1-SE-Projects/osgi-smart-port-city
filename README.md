@@ -20,6 +20,12 @@ The OSGi framework provides mainly reliable configuration, strong encapsulation 
 
 ## Getting Started - Installation
 
+## System Flowchart
+
+## System Screenshots
+
+## Manifest Screenshots
+
 ## Authors
 - [Dissanayake M.C.Y.D  -  IT20013332](https://github.com/Chabbax)
 - [Abineshh U  -  IT20025908](https://github.com/)
