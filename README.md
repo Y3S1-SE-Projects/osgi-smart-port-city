@@ -1,5 +1,7 @@
 # OSGi-Smart-Port-City
 
+![logo](img/osgi-logo.png "logo")
+
 ## Table of Contents
 
 - [Use Case Scenario](#Use-Case-Scenario)
