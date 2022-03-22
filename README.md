@@ -20,13 +20,13 @@ The OSGi framework provides mainly reliable configuration, strong encapsulation 
 
 ## Getting Started - Installation
 
-- [. ] This is a basic producer and consumer application utilising the OSGi Framework.
-- [ .] Run all the producer bundles first before the consumer because you need to run these separately.
-- [ .] Make sure to create a new OSGi configuration for each producer bundle  when running and also select ONLY the producer bundle you want to run.
-- [ .] For each producer press “Enter” and type “lb” to list all the bundles in order to check if your producer bundle is “ACTIVE” or not. 
-- [ .] If you cannot find the bundle then use “Ctrl + f” to search by the bundle name or type “ss” and move to the top of the bundle list IDs, usually your desired    bundle would be within the top 10 IDs.
-- [ .] Create a new OSGi configuration for the consumer bundle and run the configuration by selecting ALL the producer bundles including the consumer bundle.
-- [ .] Repeat steps 4 and 5 and check if all bundles, producers and consumers are “ACTIVE”. (If they are already “ACTIVE” your application will run automatically)
+- [x] This is a basic producer and consumer application utilising the OSGi Framework.
+- [x] Run all the producer bundles first before the consumer because you need to run these separately.
+- [x] Make sure to create a new OSGi configuration for each producer bundle  when running and also select ONLY the producer bundle you want to run.
+- [x] For each producer press “Enter” and type “lb” to list all the bundles in order to check if your producer bundle is “ACTIVE” or not. 
+- [x] If you cannot find the bundle then use “Ctrl + f” to search by the bundle name or type “ss” and move to the top of the bundle list IDs, usually your desired    bundle would be within the top 10 IDs.
+- [x] Create a new OSGi configuration for the consumer bundle and run the configuration by selecting ALL the producer bundles including the consumer bundle.
+- [x] Repeat steps 4 and 5 and check if all bundles, producers and consumers are “ACTIVE”. (If they are already “ACTIVE” your application will run automatically)
 
 
 ## System Flowchart
