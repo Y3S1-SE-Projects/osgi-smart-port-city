@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TaxiCustomer
+Bundle-SymbolicName: TaxiCustomer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: customer.activator.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: TaxiCustomer
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Require-Bundle: Uber;bundle-version="1.0.0",
+ Pickme;bundle-version="1.0.0",
+ Kangaroo;bundle-version="1.0.0",
+ TaxiTransportService;bundle-version="1.0.0"
