@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Booking_Consumer
+Bundle-SymbolicName: Booking_Consumer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: booking_consumer.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: Hotel.Consumer
+Import-Package: cinnamon_grand_hotel_producer,
+ kingsbury_hotel_producer,
+ org.osgi.framework;version="1.3.0"
