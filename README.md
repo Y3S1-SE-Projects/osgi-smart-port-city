@@ -28,7 +28,7 @@ The OSGi framework provides mainly reliable configuration, strong encapsulation 
 
 
 ## System Overview :package:
-The following would be provided in the form of a report in PDF format :
+The following would be provided in the form of a report in PDF format in the root directory :
 
 - [x] System Flowcharts
 - [x] Console Outputs of the OSGi Application System
