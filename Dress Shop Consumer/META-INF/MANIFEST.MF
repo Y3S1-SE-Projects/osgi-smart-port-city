@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Waruna_Textile_Producer
+Bundle-SymbolicName: Waruna_Textile_Consumer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: waruna_textile_consumer.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: Dress.Shop.Consumer
+Import-Package: org.osgi.framework;version="1.3.0",
+ waruna_textile_producer
