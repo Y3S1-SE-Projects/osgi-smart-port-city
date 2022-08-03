@@ -35,7 +35,7 @@ The following would be provided in the form of a report in PDF format in the roo
 - [x] Screenshots of MANIFEST files of each bundle
 
 ## Authors :mortar_board:
-- [Dissanayake M.C.Y.D  -  IT20013332](https://github.com/Chabbax)
-- [Abineshh U  -  IT20025908](https://github.com/)
-- [Zihara M.I.F  -  IT20032388](https://github.com/)
-- [Kuruppu S.G  -  IT20061302](https://github.com/)
+- [Dissanayake M.C.Y.D](https://github.com/Chabbax)
+- [Abineshh U](https://github.com/)
+- [Zihara M.I.F](https://github.com/)
+- [Kuruppu S.G](https://github.com/)
